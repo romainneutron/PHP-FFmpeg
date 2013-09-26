@@ -29,3 +29,7 @@ This project is licensed under the [MIT license](http://opensource.org/licenses/
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/romainneutron/php-ffmpeg/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
